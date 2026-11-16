@@ -52,9 +52,10 @@ window.LAPTOP_SCREENS = [
     filter: 'hue-rotate(155deg) saturate(.9)', cover: true },
   { title: 'EXPERIENCE', rows: ['ELCODE', 'PHENOMENA CREATIVE ADVISORY', '2025 — NOW'],
     key: '// experience',
-    text: '— software intern at ElCode and AI creative technologist at Phenomena Creative Advisory, after a technical internship at Luna Group Technologies.',
+    text: '— software intern at ElCode, AI creative technologist at Phenomena Creative Advisory and contract creative technologist at Luna Group Technologies.',
     link: ['open the full cv', 'assets/Serra-Alaca-CV.pdf'],
     slide: { h: 'Experience', items: [
+      ['11/2026 — NOW', 'Creative Technologist (Contract)', 'Luna Group Technologies. Building the Luna Virtual Showroom, a bilingual 3D product gallery that runs in any browser, with an interactive catalogue of 166 hand-terminal models from 7 leading brands. Directing an AI-made cinematic brand film across Luna’s business areas.'],
       ['11/2026 — NOW', 'Software Intern', 'ElCode. Managing the build of the “cat ate the elephant” animation tool, plus software integrations and digital marketing.'],
       ['09/2026 — NOW', 'AI Creative Technologist', 'Phenomena Creative Advisory. A 3D WebGL, Three.js and Next.js project for a healthcare company: code and design.'],
       ['09/2026 — NOW', 'Ambassador', 'HerFuture. Part of the UK ambassador network.'],
