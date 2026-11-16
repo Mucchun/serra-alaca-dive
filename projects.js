@@ -57,7 +57,7 @@ window.LAPTOP_SCREENS = [
     slide: { h: 'Experience', items: [
       ['11/2026 — NOW', 'Software Intern', 'ElCode. Managing the build of the “cat ate the elephant” animation tool, plus software integrations and digital marketing.'],
       ['09/2026 — NOW', 'AI Creative Technologist', 'Phenomena Creative Advisory. A 3D WebGL, Three.js and Next.js project for a healthcare company: code and design.'],
-      ['11/2026 — NOW', 'Creative Technologist (Contract)', 'Luna Group Technologies. A bilingual 3D virtual showroom and an AI brand film.'],
+      ['11/2026 — NOW', 'Creative Technologist', 'Luna Group Technologies. A bilingual 3D virtual showroom and an AI brand film.'],
       ['09/2026 — NOW', 'Ambassador', 'HerFuture. Part of the UK ambassador network.'],
       ['01/2026 — NOW', 'Ambassador', 'Women in Games. Part of the global ambassador network.'],
       ['06 — 09/2025', 'Technical Intern', 'Luna Group Technologies. Software, hardware and back-end work across live projects.'],
