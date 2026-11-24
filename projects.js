@@ -111,7 +111,7 @@ window.LAPTOP_SCREENS = [
     video: 'assets/luna-health.mp4', poster: 'assets/luna-health.jpg' },
   { title: 'PERFUME AD', rows: ['GOLDEN ESSENCE', '3D PRODUCT COMMERCIAL', '2026'],
     key: '// golden essence',
-    text: '— a fragrance commercial for a perfume I invented: the bottle started as a Meshy AI model, then I rebuilt the glass, liquid and gold in Blender, lit it against a desert dusk, and cut five shots with a title and soundtrack.',
+    text: '— a fragrance commercial for a perfume I invented: I built the glass, liquid and gold bottle in Blender, lit it against a desert dusk, and cut five shots with a title and soundtrack.',
     video: 'assets/golden-essence.mp4', poster: 'assets/golden-essence.jpg' },
   { title: 'ZEBRA CIRCUS', rows: ['ZEBRA TECHNOLOGIES SHOWCASE', 'FIRST-PERSON BLASTER', '2026'],
     key: '// zebra circus blaster',
